@@ -18,3 +18,12 @@ The user should be able to:
    - Average temperature
    - Description of the weather
    - An appropriate weather icon
+  
+3. Technical Requirements
+- The application is implemented using HTML, CSS, and JavaScript.
+- The application is responsive and looks good on both desktop and mobile.
+- The application is user-friendly and intuitive, with clear error handling. For example, if a user enters a city name that doesn't exist, there should be an appropriate error message.
+
+You can view the project from the below link
+  
+Netlify Link: https://65be87e2b90990c059794a6c--celebrated-hummingbird-93eba0.netlify.app/
