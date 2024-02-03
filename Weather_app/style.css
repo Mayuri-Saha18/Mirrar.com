@@ -75,3 +75,28 @@ button:hover {
     font-size: 30px;
     color: red;
 }
+/* Media Query for Mobile Devices */
+@media only screen and (max-width: 600px) {
+    #searchbox {
+        width: 90%;
+    }
+
+    #Box {
+        width: 90%;
+    }
+
+    input {
+        width: 100%;
+    }
+    #weatherReport {
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+
+    #weatherReport > div {
+        
+                width: 95%;
+                margin-bottom: 10px;
+            }
+        }
