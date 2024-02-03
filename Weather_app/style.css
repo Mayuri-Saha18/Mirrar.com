@@ -35,10 +35,10 @@ body {
     margin: auto;
     justify-content: center;
     gap: 10px;
-    width: 80%;
+    width: 95%;
     border: 1px solid #3498db;
     background-color: rgba(255, 255, 255, 0.8);
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
